@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ca219f4-c5cd-4785-a514-23dc06611d4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/META-INF/dingli.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/innerclass/InnerDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/innerclass/InnerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/innerclass/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/innerclass/Outer$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/innerclass/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/innerclass/OuterClass$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/innerclass/OuterClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/innerclass/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/properties/AbstractClas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/properties/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/properties/HouYi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/properties/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/properties/Kai.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/properties/SonOfInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/dingli/edu/properties/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/InnerClass/AbstractTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/InnerClass/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/InnerClass/Outer$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/InnerClass/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/InnerClass/OuterClass2$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/InnerClass/OuterClass2$1Inner1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/InnerClass/OuterClass2$Inner3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/InnerClass/OuterClass2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/InnerClass/OuterClass3$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/InnerClass/OuterClass3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/InnerClass/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/classandobject/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/classandobject/OverLoading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/classandobject/Properties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/classandobject/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/classandobject/equalsCompare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/properties/AbstractDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/properties/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/properties/HouYi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/properties/InterfaceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/properties/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/properties/Interfaceses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/properties/LuBan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/cn/hbnu/edu/properties/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/Heroes/AbstractDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/Heroes/AbstractSon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/Heroes/DaJi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/Heroes/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/Heroes/HouYi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/Heroes/InterfaceDem2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/Heroes/InterfaceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/Heroes/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/array/DayOfYears.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/array/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/array/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/array/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/array/Demo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/array/Demo05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/array/Flower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/array/GuessNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/array/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/array/JosperCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/AbstractDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/DaJi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/DaysOfYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/Encryption.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/Flower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/GetMaxValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/GuessNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/HouYi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/InterfaceTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/JsonpCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/Marry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/OrderArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/PrintArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/Sesson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/SonAbstract.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/edu/TestHeroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/hbnu/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/hbnu/Dmoe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/hbnu/Overriding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/hbnu/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/hbnu/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/hbnu/test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/innerClass/Demo$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/innerClass/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/innerClass/Demo01$1methodInner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/innerClass/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/innerClass/InnerClassDemo01$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/innerClass/InnerClassDemo01$InnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/innerClass/InnerClassDemo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/innerClass/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/innerClass/OuterClass$InnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/innerClass/OuterClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/innerClass/OuterClass01$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/innerClass/OuterClass01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/innerClass/Test$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/dingli/innerClass/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/hbnudingli/edu/DayOfYears.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/hbnudingli/edu/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/hbnudingli/edu/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/hbnudingli/edu/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/hbnudingli/edu/Demo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/hbnudingli/edu/Demo05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/hbnudingli/edu/Demo06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/hbnudingli/edu/Flower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/hbnudingli/edu/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/com/hbnudingli/edu/JsponeCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/JDBCTest/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/exception/DivideZero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/exception/Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/exception/IndexOutExp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/exception/NegativeValueException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/exception/NullRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/exception/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/exception/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/extendsDemo/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/extendsDemo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/extendsDemo/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/muliStatusDemo/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/muliStatusDemo/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/muliStatusDemo/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/muliStatusDemo/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/multipleThread/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/multipleThread/Thread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/multipleThread/Thread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/multipleThread/ThreadSync/LockTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/multipleThread/ThreadSync/Sync.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/multipleThread/ThreadSync/Ticket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/multipleThread/communication/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/multipleThread/communication/BoxDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/multipleThread/communication/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/multipleThread/communication/Productor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/multipleThread/create/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/multipleThread/create/MyThreadCallable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/multipleThread/create/MyThreadRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/multipleThread/create/TestThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/quick/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/quick/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/reflection/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/reflection/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/serializableOpration/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/serializableOpration/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/stream/FileOpration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/stream/IoStreamOpration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1005/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1012/first/BasketballCoach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1012/first/BasketballPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1012/first/Coach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1012/first/Learning.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1012/first/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1012/first/PingpongCoach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1012/first/PingpongPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1012/first/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1012/first/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1012/second/MyLinkStack$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1012/second/MyLinkStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1012/second/MyStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1012/second/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1012/second/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1012/third/MyQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1012/third/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1012/third/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1019/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/day1019/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/test/Classes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/test/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/test/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/test/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/task/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/object/test/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/src/com/dingli/array/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/src/com/dingli/array/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/src/com/dingli/array/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/src/com/dingli/array/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/src/com/dingli/array/Demo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/src/com/dingli/array/Demo05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/src/com/dingli/array/Demo06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/src/com/dingli/array/Demo07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/src/com/dingli/array/Demo08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/src/com/dingli/array/Dmeo09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingli/src/com/dingli/array/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/innerclass/InnerDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/innerclass/InnerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/innerclass/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/innerclass/Outer$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/innerclass/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/innerclass/OuterClass$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/innerclass/OuterClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/innerclass/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/properties/AbstractClas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/properties/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/properties/HouYi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/properties/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/properties/Kai.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/properties/SonOfInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/dingli/edu/properties/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/InnerClass/AbstractTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/InnerClass/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/InnerClass/Outer$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/InnerClass/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/InnerClass/OuterClass2$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/InnerClass/OuterClass2$1Inner1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/InnerClass/OuterClass2$Inner3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/InnerClass/OuterClass2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/InnerClass/OuterClass3$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/InnerClass/OuterClass3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/InnerClass/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/classandobject/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/classandobject/OverLoading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/classandobject/Properties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/classandobject/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/classandobject/equalsCompare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/properties/AbstractDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/properties/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/properties/HouYi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/properties/InterfaceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/properties/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/properties/Interfaceses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/properties/LuBan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/cn/hbnu/edu/properties/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/Heroes/AbstractDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/Heroes/AbstractSon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/Heroes/DaJi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/Heroes/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/Heroes/HouYi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/Heroes/InterfaceDem2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/Heroes/InterfaceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/Heroes/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/array/DayOfYears.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/array/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/array/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/array/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/array/Demo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/array/Demo05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/array/Flower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/array/GuessNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/array/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/array/JosperCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/AbstractDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/DaJi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/DaysOfYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/Encryption.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/Flower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/GetMaxValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/GuessNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/HouYi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/InterfaceTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/JsonpCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/Marry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/OrderArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/PrintArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/Sesson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/SonAbstract.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/edu/TestHeroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/hbnu/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/hbnu/Dmoe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/hbnu/Overriding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/hbnu/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/hbnu/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/hbnu/test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/innerClass/Demo$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/innerClass/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/innerClass/Demo01$1methodInner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/innerClass/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/innerClass/InnerClassDemo01$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/innerClass/InnerClassDemo01$InnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/innerClass/InnerClassDemo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/innerClass/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/innerClass/OuterClass$InnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/innerClass/OuterClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/innerClass/OuterClass01$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/innerClass/OuterClass01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/innerClass/Test$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/dingli/innerClass/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/hbnudingli/edu/DayOfYears.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/hbnudingli/edu/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/hbnudingli/edu/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/hbnudingli/edu/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/hbnudingli/edu/Demo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/hbnudingli/edu/Demo05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/hbnudingli/edu/Demo06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/hbnudingli/edu/Flower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/hbnudingli/edu/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/com/hbnudingli/edu/JsponeCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/JDBCTest/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/exception/DivideZero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/exception/Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/exception/IndexOutExp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/exception/NegativeValueException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/exception/NullRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/exception/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/exception/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/extendsDemo/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/extendsDemo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/extendsDemo/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/muliStatusDemo/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/muliStatusDemo/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/muliStatusDemo/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/muliStatusDemo/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/multipleThread/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/multipleThread/Thread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/multipleThread/Thread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/multipleThread/ThreadSync/LockTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/multipleThread/ThreadSync/Sync.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/multipleThread/ThreadSync/Ticket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/multipleThread/communication/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/multipleThread/communication/BoxDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/multipleThread/communication/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/multipleThread/communication/Productor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/multipleThread/create/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/multipleThread/create/MyThreadCallable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/multipleThread/create/MyThreadRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/multipleThread/create/TestThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/quick/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/quick/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/reflection/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/reflection/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/serializableOpration/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/serializableOpration/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/stream/FileOpration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/stream/IoStreamOpration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1005/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1012/first/BasketballCoach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1012/first/BasketballPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1012/first/Coach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1012/first/Learning.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1012/first/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1012/first/PingpongCoach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1012/first/PingpongPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1012/first/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1012/first/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1012/second/MyLinkStack$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1012/second/MyLinkStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1012/second/MyStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1012/second/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1012/second/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1012/third/MyQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1012/third/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1012/third/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1019/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/day1019/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/test/Classes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/test/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/test/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/test/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/task/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/object/test/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/src/com/dingli/array/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/src/com/dingli/array/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/src/com/dingli/array/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/src/com/dingli/array/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/src/com/dingli/array/Demo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/src/com/dingli/array/Demo05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/src/com/dingli/array/Demo06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/src/com/dingli/array/Demo07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/src/com/dingli/array/Demo08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/src/com/dingli/array/Dmeo09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/out/production/dingliOBJ/src/com/dingli/array/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/InnerClass/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/InnerClass/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/InnerClass/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/InnerClass/OuterClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/InnerClass/OuterClass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/InnerClass/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/classandobject/Heroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/classandobject/OverLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/classandobject/Properties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/classandobject/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/classandobject/equalsCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/properties/AbstractDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/properties/Heroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/properties/HouYi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/properties/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/properties/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/properties/Interfaceses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/properties/LuBan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/cn/hbnu/edu/properties/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/com/dingli/edu/DaysOfYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/com/dingli/edu/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/com/dingli/edu/Encryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/com/dingli/edu/Flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/com/dingli/edu/GetMaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/com/dingli/edu/GuessNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/com/dingli/edu/JsonpCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/com/dingli/edu/Marry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/com/dingli/edu/OrderArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/com/dingli/edu/PrintArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/com/dingli/edu/Sesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/JDBCTest/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/exception/DivideZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/exception/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/exception/IndexOutExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/exception/NegativeValueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/exception/NullRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/exception/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/exception/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/extendsDemo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/extendsDemo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/extendsDemo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/muliStatusDemo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/muliStatusDemo/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/muliStatusDemo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/muliStatusDemo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/multipleThread/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/multipleThread/ThreadSync/LockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/multipleThread/ThreadSync/Sync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/multipleThread/communication/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/multipleThread/communication/BoxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/multipleThread/communication/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/multipleThread/communication/Productor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/multipleThread/create/MyThreadCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/multipleThread/create/MyThreadRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/multipleThread/create/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/quick/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/quick/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/reflection/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/reflection/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/serializableOpration/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/serializableOpration/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/stream/FileOpration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/stream/IoStreamOpration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1005/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1012/first/BasketballCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1012/first/BasketballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1012/first/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1012/first/Learning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1012/first/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1012/first/PingpongCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1012/first/PingpongPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1012/first/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1012/first/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1012/second/MyLinkStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1012/second/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1012/second/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1012/second/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1012/third/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1012/third/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1012/third/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1019/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/day1019/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/test/Classes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/test/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/test/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/test/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/task/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/object/test/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/innerclass/InnerDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/innerclass/InnerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/innerclass/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/innerclass/Outer$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/innerclass/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/innerclass/OuterClass$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/innerclass/OuterClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/innerclass/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/properties/AbstractClas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/properties/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/properties/HouYi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/properties/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/properties/Kai.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/properties/SonOfInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/cn/dingli/edu/properties/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/com/hbnudingli/edu/DayOfYears.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/com/hbnudingli/edu/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/com/hbnudingli/edu/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/com/hbnudingli/edu/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/com/hbnudingli/edu/Demo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/com/hbnudingli/edu/Demo05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/com/hbnudingli/edu/Demo06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/com/hbnudingli/edu/Flower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/com/hbnudingli/edu/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/out/production/class09/com/hbnudingli/edu/JsponeCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/cn/dingli/edu/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/cn/dingli/edu/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/cn/dingli/edu/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/cn/dingli/edu/innerclass/InnerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/cn/dingli/edu/innerclass/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/cn/dingli/edu/innerclass/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/cn/dingli/edu/innerclass/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/cn/dingli/edu/innerclass/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/cn/dingli/edu/properties/AbstractClas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/cn/dingli/edu/properties/Heroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/cn/dingli/edu/properties/HouYi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/cn/dingli/edu/properties/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/cn/dingli/edu/properties/Kai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/cn/dingli/edu/properties/SonOfInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/cn/dingli/edu/properties/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/com/hbnudingli/edu/DayOfYears.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/com/hbnudingli/edu/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/com/hbnudingli/edu/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/com/hbnudingli/edu/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/com/hbnudingli/edu/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/com/hbnudingli/edu/Demo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/com/hbnudingli/edu/Demo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/com/hbnudingli/edu/Flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/com/hbnudingli/edu/Heroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class09/src/com/hbnudingli/edu/JsponeCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/Heroes/AbstractDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/Heroes/AbstractSon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/Heroes/DaJi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/Heroes/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/Heroes/HouYi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/Heroes/InterfaceDem2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/Heroes/InterfaceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/Heroes/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/array/DayOfYears.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/array/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/array/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/array/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/array/Demo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/array/Demo05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/array/Flower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/array/GuessNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/array/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/array/JosperCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/hbnu/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/hbnu/Dmoe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/hbnu/Overriding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/hbnu/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/hbnu/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/hbnu/test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/innerClass/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/innerClass/OuterClass$InnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/innerClass/OuterClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/innerClass/OuterClass01$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/innerClass/OuterClass01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/innerClass/Test$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/out/production/class10/com/dingli/innerClass/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/Heroes/AbstractDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/Heroes/AbstractSon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/Heroes/DaJi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/Heroes/Heroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/Heroes/HouYi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/Heroes/InterfaceDem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/Heroes/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/Heroes/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/array/DayOfYears.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/array/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/array/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/array/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/array/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/array/Demo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/array/Flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/array/GuessNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/array/Heroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/array/JosperCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/hbnu/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/hbnu/Dmoe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/hbnu/Overriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/hbnu/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/hbnu/test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/innerClass/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/innerClass/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/innerClass/OuterClass01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class10/src/com/dingli/innerClass/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/edu/AbstractDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/edu/DaJi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/edu/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/edu/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/edu/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/edu/HouYi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/edu/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/edu/InterfaceTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/edu/SonAbstract.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/edu/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/edu/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/edu/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/edu/TestHeroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/innerclass/Demo$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/innerclass/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/innerclass/Demo01$1methodInner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/innerclass/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/innerclass/InnerClassDemo01$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/innerclass/InnerClassDemo01$InnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/innerclass/InnerClassDemo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/innerclass/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/innerclass/Test$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/com/dingli/innerclass/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/src/com/dingli/array/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/src/com/dingli/array/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/src/com/dingli/array/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/src/com/dingli/array/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/src/com/dingli/array/Demo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/src/com/dingli/array/Demo05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/src/com/dingli/array/Demo06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/src/com/dingli/array/Demo07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/src/com/dingli/array/Demo08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/src/com/dingli/array/Dmeo09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/out/production/class11/src/com/dingli/array/Heroes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/edu/AbstractDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/edu/DaJi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/edu/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/edu/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/edu/Heroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/edu/HouYi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/edu/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/edu/InterfaceTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/edu/SonAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/edu/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/edu/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/edu/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/edu/TestHeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/innerclass/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/innerclass/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/innerclass/InnerClassDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/innerclass/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/com/dingli/innerclass/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/src/com/dingli/array/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/src/com/dingli/array/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/src/com/dingli/array/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/src/com/dingli/array/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/src/com/dingli/array/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/src/com/dingli/array/Demo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/src/com/dingli/array/Demo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/src/com/dingli/array/Demo07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/src/com/dingli/array/Demo08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/src/com/dingli/array/Dmeo09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class11/src/src/com/dingli/array/Heroes.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jRPplnt4DoXSebTU7lnwS8PRpM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.DivideZero">
+    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object.test.Demo" />
+      <module name="dingliOBJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="object.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivideZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object.exception.DivideZero" />
+      <module name="dingliOBJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="object.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThreadCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object.multipleThread.create.MyThreadCallable" />
+      <module name="dingliOBJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="object.multipleThread.create.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object.task.day1019.Task" />
+      <module name="dingliOBJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="object.task.day1019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object.task.day1019.Test" />
+      <module name="dingliOBJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="object.task.day1019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DivideZero" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.Demo (1)" />
+        <item itemvalue="Application.MyThreadCallable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ca219f4-c5cd-4785-a514-23dc06611d4e" name="Default Changelist" comment="" />
+      <created>1603763963274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603763963274</updated>
+      <workItem from="1603763965938" duration="134000" />
+      <workItem from="1603764119528" duration="2715000" />
+      <workItem from="1603767409521" duration="6804000" />
+      <workItem from="1603935617098" duration="1496000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="133" y="0" key="#Project_Structure" timestamp="1603765753714">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="133" y="0" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1603765753714" />
+    <state x="96" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603764159865">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="96" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1603764159865" />
+    <state x="402" y="22" key="#com.intellij.ide.util.MemberChooser" timestamp="1603765584659">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="402" y="22" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1603765584659" />
+    <state x="314" y="55" key="FileChooserDialogImpl" timestamp="1603765900027">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="314" y="55" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1603765900027" />
+    <state width="1230" height="91" key="GridCell.Tab.0.bottom" timestamp="1603935523894">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="91" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1603935523894" />
+    <state width="1230" height="91" key="GridCell.Tab.0.center" timestamp="1603935523894">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="91" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1603935523894" />
+    <state width="1230" height="91" key="GridCell.Tab.0.left" timestamp="1603935523894">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="91" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1603935523894" />
+    <state width="1230" height="91" key="GridCell.Tab.0.right" timestamp="1603935523894">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1230" height="91" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1603935523894" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1603765901910">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1603765901910" />
+    <state x="565" y="0" width="715" height="760" key="find.popup" timestamp="1603764169744">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="565" y="0" width="715" height="760" key="find.popup/0.0.1280.760@0.0.1280.760" timestamp="1603764169744" />
+    <state x="0" y="0" key="new project wizard" timestamp="1603935492607">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1603935492607" />
+  </component>
+</project>
